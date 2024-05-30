@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=olalekan&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **mykedee/mykedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
